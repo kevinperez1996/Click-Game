@@ -1,0 +1,56 @@
+[{
+    "id": 1,
+    "image": "./images/truck.jpg"
+  },
+  {
+    "id": 2,
+    "image": "./images/vintage.jpg"
+  },
+  {
+    "id": 3,
+
+    "image": "./images/tlx.jpg"
+  },
+  {
+    "id": 4,
+    "image": "./images/aventador.jpg"
+  },
+  {
+    "id": 5,
+    "image": "./images/gtr.jpg"
+  },
+  {
+    "id": 6,
+    "image": "./images/rs7.jpg"
+
+  },
+  {
+    "id": 7,
+    "image": "./images/ford.jpg"
+
+  },
+  {
+    "id": 8,
+    "image": "./images/huracan.jpg"
+
+  },
+  {
+    "id": 9,
+    "image": "./images/orangeSS.jpg"
+
+  },
+  {
+    "id": 10,
+    "image": "./images/mustang.jpg"
+
+  },
+  {
+    "id": 11,
+    "image": "./images/gt3.jpg"
+
+  },
+  {
+    "id": 12,
+    "image": "./images/zo6.jpg"
+  }
+]
