@@ -1,4 +1,4 @@
-# Clicky
+# Clicky Game
 
 ## Summary
 
